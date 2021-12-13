@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" x="0" y="0" version="1.1" viewBox="0 0 512 512" xml:space="preserve">
+  <path fill="#121212" d="M256 150.6c-9 0-15.1-6-15.1-15.1V15.1C240.9 6 247 0 256 0s15.1 6 15.1 15.1v120.5c0 9-6.1 15-15.1 15z">
+    <animate id="x1" attributeType="XML" attributeName="fill" values="#121212;#595959" dur="0.1s" begin="0s;x12.end" repeatCount="1" />
+    <animate id="z1" attributeType="XML" attributeName="fill" values="#595959;#121212" dur="0.1s" begin="x1.end" repeatCount="1" />
+  </path>
+
+  <path fill="#232323" d="M376.6 34c-4.8 0-9.1 2.7-12.2 6.7l-60.2 103.9c-4.5 7.5-1.5 15.1 4.5 19.6 3 1.5 4.5 1.5 7.5 1.5 4.5 0 9-3 12-6l60.2-103.9c4.5-7.5 1.5-15.1-4.5-19.6-2.4-1.6-4.9-2.2-7.3-2.2">
+    <animate id="x2" attributeType="XML" attributeName="fill" values="#232323;#595959" dur="0.1s" begin="x1.end" repeatCount="1" />
+    <animate id="z2" attributeType="XML" attributeName="fill" values="#595959;#232323" dur="0.1s" begin="x2.end" repeatCount="1" />
+	</path>
+
+  <path fill="#343434" d="M463 119.8c-2.4 0-4.7.7-6.8 2.2l-103.9 60.2c-6 4.5-9 13.6-4.5 19.6 3 4.5 7.5 7.5 12 7.5 3 0 4.5 0 7.5-3l103.9-60.2c6-4.5 9-13.6 4.5-19.6-2.9-4-7.9-6.7-12.7-6.7">
+		<animate id="x3" attributeType="XML" attributeName="fill" values="#343434;#595959" dur="0.1s" begin="x2.end" repeatCount="1" />
+    <animate id="z3" attributeType="XML" attributeName="fill" values="#595959;#343434" dur="0.1s" begin="x3.end" repeatCount="1" />
+	</path>
+
+  <path fill="#454545" d="M496.9 240.9H376.5c-9 0-15.1 6-15.1 15.1 0 9 6 15.1 15.1 15.1H497c9 0 15.1-6 15.1-15.1-.1-9-6.1-15.1-15.2-15.1">
+		<animate id="x4" attributeType="XML" attributeName="fill" values="#454545;#595959" dur="0.1s" begin="x3.end" repeatCount="1" />
+    <animate id="z4" attributeType="XML" attributeName="fill" values="#595959;#454545" dur="0.1s" begin="x4.end" repeatCount="1" />
+	</path>
+
+	<path fill="#565656" d="M361.5 302c-4.8 0-9.1 2.7-12.2 6.7-4.5 7.5-1.5 15.1 4.5 19.6l103.9 60.2c3 1.5 4.5 1.5 7.5 1.5 4.5 0 9-1.5 12.1-6 4.5-7.5 1.5-15.1-4.5-19.6l-103.9-60.2c-2.5-1.5-5-2.2-7.4-2.2">
+		<animate id="x5" attributeType="XML" attributeName="fill" values="#565656;#595959" dur="0.1s" begin="x4.end" repeatCount="1" />
+    <animate id="z5" attributeType="XML" attributeName="fill" values="#595959;#565656" dur="0.1s" begin="x5.end" repeatCount="1" />
+	</path>
+
+  <path fill="#787878" d="M315.5 345.7c-2.4 0-4.7.7-6.7 2.2-6 4.5-9 13.6-4.5 19.6l60.2 103.9c3 4.5 7.5 7.5 12 7.5 3 0 4.5-1.5 7.5-3 6-4.5 9-13.6 4.5-19.6l-60.2-103.9c-3-4-8-6.7-12.8-6.7">
+		<animate id="x6" attributeType="XML" attributeName="fill" values="#787878;#595959" dur="0.1s" begin="x5.end" repeatCount="1" />
+    <animate id="z6" attributeType="XML" attributeName="fill" values="#595959;#787878" dur="0.1s" begin="x6.end" repeatCount="1" />
+	</path>
+
+  <path fill="#898989" d="M256 361.4c-9 0-15.1 6-15.1 15.1V497c0 9 6 15.1 15.1 15.1 9 0 15.1-6 15.1-15.1V376.5c0-9.1-6.1-15.1-15.1-15.1">
+		<animate id="x7" attributeType="XML" attributeName="fill" values="#898989;#595959" dur="0.1s" begin="x6.end" repeatCount="1" />
+    <animate id="z7" attributeType="XML" attributeName="fill" values="#595959;#898989" dur="0.1s" begin="x7.end" repeatCount="1" />
+	</path>
+
+  <path fill="#828282" d="M195.9 347.2c-4.8 0-9.1 2.7-12.2 6.7l-60.2 103.9c-4.5 7.5-1.5 15.1 4.5 19.6 3 1.5 4.5 1.5 7.5 1.5 4.5 0 9-3 12-6L207.7 369c4.5-7.5 1.5-15.1-4.5-19.6-2.4-1.5-4.9-2.2-7.3-2.2">
+		<animate id="x8" attributeType="XML" attributeName="fill" values="#828282;#595959" dur="0.1s" begin="x7.end" repeatCount="1" />
+    <animate id="z8" attributeType="XML" attributeName="fill" values="#595959;#828282" dur="0.1s" begin="x8.end" repeatCount="1" />
+	</path>
+
+  <path fill="#929292" d="M149.8 300.5c-2.4 0-4.7.7-6.7 2.2L39.2 362.9c-6 4.5-9 13.6-4.5 19.6 3 4.5 7.5 7.5 12.1 7.5 3 0 6 0 7.5-3l103.9-60.2c6-4.5 9-13.6 4.5-19.6-3.1-4-8.1-6.7-12.9-6.7">
+		<animate id="x9" attributeType="XML" attributeName="fill" values="#929292;#595959" dur="0.1s" begin="x8.end" repeatCount="1" />
+    <animate id="z9" attributeType="XML" attributeName="fill" values="#595959;#929292" dur="0.1s" begin="x9.end" repeatCount="1" />
+	</path>
+
+  <path fill="#a2a2a2" d="M135.5 240.9H15.1C6 240.9 0 247 0 256s6 15.1 15.1 15.1h120.5c9 0 15.1-6 15.1-15.1-.1-9-6.1-15.1-15.2-15.1">
+		<animate id="x10" attributeType="XML" attributeName="fill" values="#a2a2a2;#595959" dur="0.1s" begin="x9.end" repeatCount="1" />
+    <animate id="z10" attributeType="XML" attributeName="fill" values="#595959;#a2a2a2" dur="0.1s" begin="x10.end" repeatCount="1" />
+	</path>
+
+  <path fill="#121212" d="M48.3 121.3c-4.8 0-9.1 2.7-12.2 6.7-4.5 7.5-1.5 15.1 4.5 19.6l103.9 60.2c3 1.5 4.5 1.5 7.5 1.5 4.5 0 9-1.5 12-6 4.5-7.5 1.5-15.1-4.5-19.6L55.7 123.5c-2.5-1.5-5-2.2-7.4-2.2">
+		<animate id="x11" attributeType="XML" attributeName="fill" values="#121212;#595959" dur="0.1s" begin="x10.end" repeatCount="1" />
+    <animate id="z11" attributeType="XML" attributeName="fill" values="#595959;#121212" dur="0.1s" begin="x11.end" repeatCount="1" />
+	</path>
+
+  <path id="i0" fill="#121212" d="M134.7 32.5c-2.4 0-4.7.7-6.7 2.2-6 4.5-9 13.6-4.5 19.6l60.2 103.9c3 4.5 7.5 7.5 12 7.5 3 0 4.5 0 7.5-3 6-4.5 9-13.6 4.5-19.6L147.6 39.2c-3-4.1-8.1-6.7-12.9-6.7">
+		<animate id="x12" attributeType="XML" attributeName="fill" values="#121212;#595959" dur="0.1s" begin="x11.end" repeatCount="1" />
+    <animate id="z12" attributeType="XML" attributeName="fill" values="#595959;#121212" dur="0.1s" begin="x12.end" repeatCount="1" />
+	</path>
+</svg>
